@@ -1,1 +1,1 @@
-InfoPC
+InfoPC USB

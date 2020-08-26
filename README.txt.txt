@@ -1,0 +1,1 @@
+Copy files in one USB and execute InfoPC.exe
